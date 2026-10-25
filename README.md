@@ -34,9 +34,7 @@ Analyzing sales, profit, products, and regional performance.
 - Learn Python for data analysis
 - Prepare for Data Analyst internships
 
-🤝 Connect With Me
-
-- LinkedIn: Add your LinkedIn profile link here.
+🤝 LinkedIn:https://www.linkedin.com/in/karhana-sourav-0a36a7446?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 

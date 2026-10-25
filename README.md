@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Sourav Karhana 👋
 
-<!--
-**karhanasourav2-lgtm/karhanasourav2-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | BCA Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about Data Analytics, business insights, and solving problems using data.
+
+🛠️ Skills & Tools
+
+- 📗 Excel — Data Cleaning, Pivot Tables, Reporting
+- 🗄️ SQL — Queries, Joins, Aggregations
+- 📊 Power BI — Dashboards, KPIs, Data Visualization
+- 🐍 Python — Basic Python
+
+🚀 Featured Projects
+
+1. Customer Churn & Retention Analysis
+
+Analyzing customer churn, retention, customer segments, and revenue at risk.
+
+🔗 "View Project" (https://github.com/karhanasourav2-lgtm/customer-churn-retention-analysis)
+
+2. E-Commerce Sales & Profit Analysis
+
+Analyzing sales, profit, products, and regional performance.
+
+🔗 "View Project" (https://github.com/karhanasourav2-lgtm/ecommerce-sales-analysis)
+
+🎯 My Goals
+
+- Build real-world Data Analytics projects
+- Improve my SQL and Power BI skills
+- Learn Python for data analysis
+- Prepare for Data Analyst internships
+
+🤝 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here.
+
+---
+
+⭐ Thanks for visiting my profile!
